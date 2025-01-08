@@ -1,16 +1,18 @@
-## Hi there 👋
+![Starbase Banner](https://raw.githubusercontent.com/jaredgrogan/jaredgrogan/main/starbase_banner_details.png)
 
-<!--
-**jaredgrogan/jaredgrogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to Jared Grogan's GitHub!
 
-Here are some ideas to get you started:
+   ██╗ ██████╗ 
+      ██║██╔════╝ 
+      ██║██║  ███╗
+ ██   ██║██║   ██║
+ ╚█████╔╝╚██████╔╝
+  ╚════╝  ╚═════╝ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cognitive Computing & AI Research: Full-Stack R&D @ Universitas AI  
+             // Science Film @ Starbase 🚀
+
+Follow me:
+🌐 LinkedIn: https://www.linkedin.com/in/jared-james-grogan-76495b27/
+✖️  X (Twitter): @StarbaseOG
+📸  Instagram: @ReflectorStudios.art
