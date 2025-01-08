@@ -3,6 +3,6 @@ Cognitive Computing & AI Research: Full-Stack R&D @ Universitas AI
              // Science Film @ Starbase 🚀
 
 Follow me:
-🌐 LinkedIn: https://www.linkedin.com/in/jared-james-grogan-76495b27/
+🌐 LinkedIn: https://www.linkedin.com/in/jared-ai
 ✖️  X: https://x.com/@StarbaseOG
 📸  Instagram: https://instagram.com/ReflectorStudios.art
