@@ -1,4 +1,4 @@
-![Starbase Banner](https://raw.githubusercontent.com/jaredgrogan/jaredgrogan/main/starbase_banner_details.png)
+![Starbase Banner](https://raw.githubusercontent.com/jaredgrogan/jaredgrogan/main/starbaseog_banner.png)
 
 Welcome to Jared Grogan's GitHub!
 
