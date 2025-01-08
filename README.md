@@ -1,14 +1,4 @@
 ![Starbase Banner](https://raw.githubusercontent.com/jaredgrogan/jaredgrogan/main/starbaseog_banner.png)
-
-Welcome to Jared Grogan's GitHub!
-
-   ██╗ ██████╗ 
-      ██║██╔════╝ 
-      ██║██║  ███╗
- ██   ██║██║   ██║
- ╚█████╔╝╚██████╔╝
-  ╚════╝  ╚═════╝ 
-
 Cognitive Computing & AI Research: Full-Stack R&D @ Universitas AI  
              // Science Film @ Starbase 🚀
 
