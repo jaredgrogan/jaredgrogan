@@ -1,4 +1,4 @@
-![Starbase Banner](https://raw.githubusercontent.com/jaredgrogan/jaredgrogan/main/starbaseog_banner.png)
+![Starbase Banner](https://raw.githubusercontent.com/jaredgrogan/jaredgrogan/main/universe.mp4)
 Cognitive Computing & AI Research: Full-Stack R&D @ Universitas AI  
              // Science Film @ Starbase 🚀
 
