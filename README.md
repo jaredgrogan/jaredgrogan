@@ -6,3 +6,4 @@ Follow @
 🌐 LinkedIn: https://www.linkedin.com/in/jared-ai
 ✖️  X: https://x.com/@StarbaseOG
 📸  Instagram: https://instagram.com/ReflectorStudios.art
+linktr.ee/jaredgrogan
